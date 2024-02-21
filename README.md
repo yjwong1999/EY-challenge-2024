@@ -3,8 +3,7 @@
 ## Setup environment
 - Clone the repo
 ```bash
-git clone https://github.com/yjwong1999/streaming.git
-git clone https://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@github.com/yjwong1999/streaming.git
+git clone https://github.com/yjwong1999/EY-challenge-2024.git
 cd streaming
 ```
 
