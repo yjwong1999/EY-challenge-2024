@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive
 https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link
 
 ```
-YOLOv8-multi-detection-head
+EY-challenge-2024
 ├── ultralytics
 ├── datasets
 │   ├── images
