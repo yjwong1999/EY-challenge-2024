@@ -28,3 +28,6 @@ conda activate ey-challenge
 https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link
 https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link
 
+## Training
+1. Start with `1 BuildingDetection.ipynb` to pretrain a YOLOv8n model using Msft Building Footprint dataset. A pretrained experiments outputs (including the weights) of Module 1 are provided in `pretrained` directory. So unless you want to modify the training pipeline for Module 1, you can skip this and directly go to Module 2.
+2. 
