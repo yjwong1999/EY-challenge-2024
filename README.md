@@ -30,5 +30,5 @@ conda activate ey-challenge
 
 
 ## Download dataset (if dataset is not in Roboflow)
-https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link
-https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link
+1. [Microsoft Building Dataset (only Puerto Rico region)](https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link)
+2. [EY-Challenge Phase 1 test set](https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link)
