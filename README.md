@@ -20,7 +20,6 @@ EY-challenge-2024
 │   ├── detect
 │   │   ├── train
 │   │   │   ├── weights                 (pretrained weights for building detections)
-│   │   ├── val
 ├── 1 BuildingDetection.ipynb           (Module 1: To pretrain a YOLOv8n model using Msft Building Footprint dataset)
 ├── 2 Finetuner.ipynb                   (Module 2: To finetune the pretrained model from Module 1 on EY Training Dataset)
 ```
