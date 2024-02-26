@@ -11,10 +11,7 @@ conda create --name ey-challenge python=3.8.10 -y
 conda activate ey-challenge
 ```
 
-## Download dataset
-https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link
-https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link
-
+## Repo Structure
 ```
 EY-challenge-2024
 ├── challenge_1_submission_images       (EY Challenge Phase 1 Submission's test images)
@@ -27,3 +24,9 @@ EY-challenge-2024
 ├── 1 BuildingDetection.ipynb           (Module 1: To pretrain a YOLOv8n model using Msft Building Footprint dataset)
 ├── 2 Finetuner.ipynb                   (Module 2: To finetune the pretrained model from Module 1 on EY Training Dataset)
 ```
+
+
+## Download dataset
+https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link
+https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link
+
