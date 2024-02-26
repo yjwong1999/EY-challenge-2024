@@ -30,4 +30,4 @@ https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive
 
 ## Training
 1. Start with `1 BuildingDetection.ipynb` to pretrain a YOLOv8n model using Msft Building Footprint dataset. A pretrained experiments outputs (including the weights) of Module 1 are provided in `pretrained` directory. So unless you want to modify the training pipeline for Module 1, you can skip this and directly go to Module 2.
-2. 
+2. With the pretrained model, you can proceed to `2 Finetuner.ipynb`. In this module, you will fine-tune the pretrained model from Module 1 on the EY Training Dataset
