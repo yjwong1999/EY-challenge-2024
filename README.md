@@ -17,25 +17,13 @@ https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive
 
 ```
 EY-challenge-2024
-├── ultralytics
-├── datasets
-│   ├── images
+├── challenge_1_submission_images       (EY Challenge Phase 1 Submission's test images)
+│   ├── Submission data
+├── pretrained                          (pretrained experiments for building detections, so that you can skip Module 1: BuildingDetection.ipynb)
+│   ├── detect
 │   │   ├── train
+│   │   │   ├── weights                 (pretrained weights for building detections)
 │   │   ├── val
-│   │   ├── test
-│   ├── detection-ocr            (Head 1 for Task 1)
-│   │   ├── labels
-│   │   │   ├── train
-│   │   │   ├── val
-│   │   │   ├── test
-│   ├── detection-license-plate  (Head 2 for Task 2)
-│   │   ├── labels
-│   │   │   ├── train
-│   │   │   ├── val
-│   │   │   ├── test
-│   ├── detection-car-colour     (Head 3 for Task 3)
-│   │   ├── labels
-│   │   │   ├── train
-│   │   │   ├── val
-│   │   │   ├── test
+├── 1 BuildingDetection.ipynb           (Module 1: To pretrain a YOLOv8n model using Msft Building Footprint dataset)
+├── 2 Finetuner.ipynb                   (Module 2: To finetune the pretrained model from Module 1 on EY Training Dataset)
 ```
