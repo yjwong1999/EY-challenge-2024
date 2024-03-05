@@ -1,5 +1,8 @@
 # EY-challenge-2024
 
+## Business Idea: Data Fleet is All You Need
+- Data is the new oil, but you need 
+
 ## Repo Structure
 ```
 EY-challenge-2024
