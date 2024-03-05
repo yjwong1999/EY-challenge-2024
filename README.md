@@ -1,6 +1,6 @@
 # EY-challenge-2024
 
-## Business Idea: Data Fleet is All You Need
+## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
 
 ## Repo Structure
