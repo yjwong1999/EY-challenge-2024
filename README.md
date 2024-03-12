@@ -1,10 +1,11 @@
 # EY-challenge-2024: Tropical storm damage detection model
 
-We are among the Top 10 entrants of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
-We ranked 11 out of 220 teams worldwide on the leaderboard 🌍🏆 </br>
-In terms of evaluation score, we rank 4th, tying with other impressive competing teams! 🤩
-
-Brief introduction: The goal of the challenge is to develop a machine learning model to identify and detect “damaged” and “un-damaged” coastal infrastructure (residential and commercial buildings), which have been impacted by natural calamities such as hurricanes, cyclones, etc. Participants will be given pre- and post-cyclone satellite images of a site impacted by Hurricane Maria in 2017 and build a machine learning model, designed to detect four different objects in a satellite image of a cyclone impacted area:
+Project Background: 
+The goal of the challenge is to develop a machine learning model to identify and detect “damaged” and “un-damaged” coastal infrastructure (residential and commercial buildings), which have been impacted by natural calamities such as hurricanes, cyclones, etc. Participants will be given pre- and post-cyclone satellite images of a site impacted by Hurricane Maria in 2017 and build a machine learning model, designed to detect four different objects in a satellite image of a cyclone impacted area:
+1. Undamaged residential building
+2. Damaged residential building
+3. Undamaged commercial building
+4. Damaged commercial building
 
 ## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
