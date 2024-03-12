@@ -1,6 +1,9 @@
 # EY-challenge-2024
 
-We are among the Top 10 entrants of **EY Open Science Data Challenge 2024** 🎉🥳
+We are among the Top 10 entrants of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
+We ranked 11/220 teams from worldwide
+
+Brief introduction: The aim of the challenge is to use high-resolution datasets to model coastal vulnerability and assess tropical storm damage
 
 ## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
