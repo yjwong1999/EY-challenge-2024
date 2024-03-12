@@ -1,6 +1,5 @@
 # EY-challenge-2024: Tropical storm damage detection model
 
-## Project Background: 
 The goal of the challenge is to develop a machine learning model to identify and detect “damaged” and “un-damaged” coastal infrastructure (residential and commercial buildings), which have been impacted by natural calamities such as hurricanes, cyclones, etc. Participants will be given pre- and post-cyclone satellite images of a site impacted by Hurricane Maria in 2017 and build a machine learning model, designed to detect four different objects in a satellite image of a cyclone impacted area:
 1. Undamaged residential building
 2. Damaged residential building
