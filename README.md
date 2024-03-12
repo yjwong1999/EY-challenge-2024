@@ -1,7 +1,7 @@
 # EY-challenge-2024
 
 We are among the Top 10 entrants of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
-We ranked 11 out of 220 teams worldwide 🌍🏆
+We ranked 11 out of 220 teams worldwide on the leaderboard 🌍🏆
 
 Brief introduction: The aim of the challenge is to use high-resolution datasets to model coastal vulnerability and assess tropical storm damage
 
