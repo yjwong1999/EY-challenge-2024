@@ -12,7 +12,7 @@ Our proposed method achived promising results with minimal training data!
 - We are among the Top 10 entrants of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
 - We ranked 11 out of 222 teams worldwide on the leaderboard (Top 5%) 🌍🏆 </br>
 - In terms of evaluation score, we rank 4th, tying with other impressive competing teams! 🤩
-- Meanwhile, we ranked 1st in Malaysia! 🏅
+- Meanwhile, we ranked 1st out of 22 teams in Malaysia! 🏅
 
 ## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
