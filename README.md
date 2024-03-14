@@ -59,6 +59,5 @@ conda activate ey-challenge
 1. Use `Model-development-notebook.ipynb` to train the model following our pipeline. If you cant download the `additional-dataset.zip` due to filesize error, than you can use `Model-development-notebook (backup).ipynb` as an alternative
 2. Use `Validation-notebook.ipynb` to generate `submission.zip`
 
-## Download dataset (if dataset is not in Roboflow)
-1. [Microsoft Building Dataset (only Puerto Rico region)](https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link)
-2. [EY-Challenge Phase 1 test set](https://drive.google.com/file/d/1R6pTpvyxucpSubhQgTUIyGGwbk5ardU7/view?usp=drive_link)
+## Download dataset
+1. Our submitted `content-package` can be found in this [link](https://drive.google.com/drive/folders/1KI9Fh0qCpzWMw-Cf9eWf0-LAyC9nIq1n?usp=sharing). You can find all of our datasets here as well
