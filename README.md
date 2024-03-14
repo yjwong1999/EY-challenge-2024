@@ -1,4 +1,6 @@
-# 2024 EY Open Science Data Challenge: Tropical storm damage detection model
+# 2024 EY Open Science Data Challenge: Tropical Storm Damage Detection Model
+
+Team: Double Y (Yi Jie Wong, Yin Loon Khor, Liu Ziwei)
 
 https://drive.google.com/drive/folders/1KI9Fh0qCpzWMw-Cf9eWf0-LAyC9nIq1n?usp=sharing
 
