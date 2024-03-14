@@ -18,6 +18,8 @@ Our proposed method achived promising results with minimal training data!
 - In terms of evaluation score, we rank 4th, tying with other impressive competing teams! 🤩
 - Meanwhile, we ranked 1st out of 22 teams in Malaysia! 🏅
 
+![methodology](https://github.com/yjwong1999/EY-challenge-2024/blob/main/Team%20Double%20Y%20-%20Methodology.jpg?raw=true)
+
 <!-- 
 ## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
