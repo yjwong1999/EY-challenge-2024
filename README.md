@@ -17,10 +17,12 @@ Our proposed method achived promising results with minimal training data!
 - We ranked 11 out of 222 teams worldwide on the leaderboard (Top 5%) 🌍🏆 </br>
 - In terms of evaluation score, we rank 4th, tying with other impressive competing teams! 🤩
 - Meanwhile, we ranked 1st out of 22 teams in Malaysia! 🏅
+
 <!-- 
 ## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
 -->
+
 ## Repo Structure
 ```
 EY-challenge-2024
@@ -50,9 +52,12 @@ conda activate ey-challenge
 ```
 
 ## Training
+<!-- 
 1. Start with `1 BuildingDetection.ipynb` to pretrain a YOLOv8n model using [Msft Building Footprint](https://planetarycomputer.microsoft.com/dataset/ms-buildings) dataset. A pretrained experiments outputs (including the weights) of Module 1 are provided in `pretrained` directory. So unless you want to modify the training pipeline for Module 1, you can skip this and directly go to Module 2.
 2. With the pretrained model, you can proceed to `2 Finetuner.ipynb`. In this module, you will fine-tune the pretrained model from Module 1 on the EY Training Dataset
-
+-->
+1. Use `Model-development-notebook.ipynb` to train the model following our pipeline. If you cant download the `additional-dataset.zip` due to filesize error, than you can use `Model-development-notebook (backup).ipynb` as an alternative
+2. Use `Validation-notebook.ipynb` to generate `submission.zip`
 
 ## Download dataset (if dataset is not in Roboflow)
 1. [Microsoft Building Dataset (only Puerto Rico region)](https://drive.google.com/file/d/1usJRoHRydBFtp65uovEioWXkdMBPioXO/view?usp=drive_link)
