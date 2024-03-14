@@ -24,15 +24,18 @@ Our proposed method achived promising results with minimal training data!
 ## Repo Structure
 ```
 EY-challenge-2024
-├── challenge_1_submission_images       (EY Challenge Phase 1 Submission's test images)
-│   ├── Submission data
-├── pretrained                          (pretrained experiments for building detections, so that you can skip Module 1: BuildingDetection.ipynb)
+├── our-best-runs                       (proof of our experiment that yields the highest mAP)
 │   ├── detect
-│   │   ├── train
-│   │   │   ├── weights                 (pretrained weights for building detections)
-├── 1 BuildingDetection.ipynb           (Module 1: To pretrain a YOLOv8n model using Msft Building Footprint dataset)
-├── 2 Finetuner.ipynb                   (Module 2: To finetune the pretrained model from Module 1 on EY Training Dataset)
-├── challenge_1_submission_images.zip   (Just the zip file of EY Challenge Phase 1 test images)
+│   │   ├── predict                     
+│   │   ├── train                       
+├── additional-dataset.zip              (additional dataset)
+├── best-trained-model.pt               (best trained model which we used for submission, mAP 0.51)
+├── challenge_1_submission_images.zip   (just the zip file of EY Challenge Phase 1 test images)
+├── labelled-dataset.zip                (labelled dataset)
+├── Model-development-notebook.ipynb    (to train the model)
+├── pretrained-on-msft-puerto-rico      (models pretrained on Microsoft Building Footprint -> Puerto Rico dataset)
+├── requirements.txt                    (dependencies requirement)
+├── Validation-notebook.ipynb           (for Phase 1 submission)
 ```
 
 ## Setup environment
