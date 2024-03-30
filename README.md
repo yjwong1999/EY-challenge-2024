@@ -20,6 +20,7 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
 <!-- 
 ## Business Idea: Data Fleet is What You Need
 - Data is often compared to oil, but like oil, data needs to be refined and transformed to unleash its true potential.
+- Our proposed method achived promising results with minimal training data!
 -->
 
 ## Repo Structure
