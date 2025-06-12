@@ -10,8 +10,7 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
 
 ## Our Solution
 
-- We are among the Top 10 Global Semi-Finalist of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
-- We ranked 11 out of 222 teams worldwide on the leaderboard (Top 5%) 🌍🏆 </br>
+- We are Global Semi-Finalist of **EY Open Science Data Challenge 2024** out of over 11,000 registrants 🎉🥳 </br>
 - In terms of evaluation score, we rank 4th, tying with other impressive competing teams! 🤩
 - Meanwhile, we ranked 1st out of 22 teams in Malaysia! 🏅
 
